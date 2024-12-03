@@ -8,6 +8,8 @@ public class PetsTest
     list1.add(cat1);
     list1.add(fish1);
     System.out.println(list1);
+
+    //Working?
   }
 }
 
