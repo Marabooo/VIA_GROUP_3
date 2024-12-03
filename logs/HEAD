@@ -1,0 +1,36 @@
+0000000000000000000000000000000000000000 e864684252cfab037715db8dc008a89a54044a5a Piotr Junosz <piotrju2005@wp.pl> 1733159244 +0100	commit (initial): init
+e864684252cfab037715db8dc008a89a54044a5a 3450442feb7e029e45afbcaa7f14fa6ca532421f Piotr Junosz <piotrju2005@wp.pl> 1733159362 +0100	commit: test2
+3450442feb7e029e45afbcaa7f14fa6ca532421f 0000000000000000000000000000000000000000 Piotr Junosz <piotrju2005@wp.pl> 1733159396 +0100	Branch: renamed refs/heads/master to refs/heads/piotr
+0000000000000000000000000000000000000000 3450442feb7e029e45afbcaa7f14fa6ca532421f Piotr Junosz <piotrju2005@wp.pl> 1733159396 +0100	Branch: renamed refs/heads/master to refs/heads/piotr
+3450442feb7e029e45afbcaa7f14fa6ca532421f 65747eaac534e03ac01e96cc9f89eb014c0c311a Piotr Junosz <piotrju2005@wp.pl> 1733159424 +0100	commit: test2
+65747eaac534e03ac01e96cc9f89eb014c0c311a 7b24702358b0ef268a1bec91e09e71488b30a302 Piotr Junosz <piotrju2005@wp.pl> 1733159667 +0100	commit: test2
+7b24702358b0ef268a1bec91e09e71488b30a302 4c776dcdbf90b13c74fcc8489a099626061f5de8 Piotr Junosz <piotrju2005@wp.pl> 1733159728 +0100	commit: test2
+4c776dcdbf90b13c74fcc8489a099626061f5de8 aaf9afc6b5059bc5ac86d5e86c3aee16236c6c2f Piotr Junosz <piotrju2005@wp.pl> 1733159779 +0100	commit: test2
+aaf9afc6b5059bc5ac86d5e86c3aee16236c6c2f 69e422363a7fac31c54a77bae3b0e252dba89525 Piotr Junosz <piotrju2005@wp.pl> 1733160001 +0100	commit: test2
+69e422363a7fac31c54a77bae3b0e252dba89525 6d84161b6d8d3216d0d613fbbbfd7402fccf1d96 Piotr Junosz <piotrju2005@wp.pl> 1733179066 +0100	commit: Pets and PetList version 1
+6d84161b6d8d3216d0d613fbbbfd7402fccf1d96 89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a Piotr Junosz <piotrju2005@wp.pl> 1733216020 +0100	commit: Pets and PetList version 1
+89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a 89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a Piotr Junosz <piotrju2005@wp.pl> 1733216586 +0100	checkout: moving from piotr to main
+89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a fac16853356dc8cf4b6d93b6aff522915d31eec5 Piotr Junosz <piotrju2005@wp.pl> 1733216654 +0100	rebase (start): checkout origin/main
+fac16853356dc8cf4b6d93b6aff522915d31eec5 55dcfc42328441867d6d1372896f099301345650 Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): test2
+55dcfc42328441867d6d1372896f099301345650 c9fc3062fca24fe128e689febf156c9dddba69d4 Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): test2
+c9fc3062fca24fe128e689febf156c9dddba69d4 1a2b6c35d736ff45099041b38be82b6cae7045cd Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): test2
+1a2b6c35d736ff45099041b38be82b6cae7045cd 8a64eaedf71071c044746ab0b2c4cc24a34245de Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): test2
+8a64eaedf71071c044746ab0b2c4cc24a34245de f5b1b53074d75e91c04b165dbbb915a93a03324a Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): test2
+f5b1b53074d75e91c04b165dbbb915a93a03324a 89a477849a3f2d12c9c74d13047eedf84d8b0288 Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): test2
+89a477849a3f2d12c9c74d13047eedf84d8b0288 3ca945b58b82244e9e6c9412ca7b51dd354d0cad Piotr Junosz <piotrju2005@wp.pl> 1733216673 +0100	rebase (pick): Pets and PetList version 1
+3ca945b58b82244e9e6c9412ca7b51dd354d0cad 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733216684 +0100	rebase (continue): idk what im doing
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733216694 +0100	rebase (finish): returning to refs/heads/main
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a Piotr Junosz <piotrju2005@wp.pl> 1733216768 +0100	checkout: moving from main to piotr
+89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733216778 +0100	checkout: moving from piotr to main
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a Piotr Junosz <piotrju2005@wp.pl> 1733217027 +0100	checkout: moving from main to piotr
+89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733217089 +0100	checkout: moving from piotr to pet-petlist-classes
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a Piotr Junosz <piotrju2005@wp.pl> 1733217113 +0100	checkout: moving from pet-petlist-classes to piotr
+89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733217169 +0100	checkout: moving from piotr to pet-petlist-classes
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 9f974e0c799a59de1270073e9763ace73eddb159 Piotr Junosz <piotrju2005@wp.pl> 1733217182 +0100	commit: Pets and PetList version 1
+9f974e0c799a59de1270073e9763ace73eddb159 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733217346 +0100	checkout: moving from pet-petlist-classes to main
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 9f974e0c799a59de1270073e9763ace73eddb159 Piotr Junosz <piotrju2005@wp.pl> 1733217607 +0100	checkout: moving from main to pet-petlist-classes
+9f974e0c799a59de1270073e9763ace73eddb159 9f974e0c799a59de1270073e9763ace73eddb159 Piotr Junosz <piotrju2005@wp.pl> 1733217631 +0100	checkout: moving from pet-petlist-classes to main
+9f974e0c799a59de1270073e9763ace73eddb159 9f974e0c799a59de1270073e9763ace73eddb159 Piotr Junosz <piotrju2005@wp.pl> 1733217728 +0100	checkout: moving from main to pet-petlist-classes
+9f974e0c799a59de1270073e9763ace73eddb159 53e430ad4b0a3f1bd9e30908893461c8c2625d15 Piotr Junosz <piotrju2005@wp.pl> 1733217756 +0100	commit: Pets and PetList version 1
+53e430ad4b0a3f1bd9e30908893461c8c2625d15 53e430ad4b0a3f1bd9e30908893461c8c2625d15 Piotr Junosz <piotrju2005@wp.pl> 1733217834 +0100	checkout: moving from pet-petlist-classes to main
+53e430ad4b0a3f1bd9e30908893461c8c2625d15 0c09a0c877668321b693047561868ba7fd39d715 Piotr Junosz <piotrju2005@wp.pl> 1733217859 +0100	checkout: moving from main to master

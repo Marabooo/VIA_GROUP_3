@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a Piotr Junosz <piotrju2005@wp.pl> 1733216586 +0100	branch: Created from HEAD
+89b29ab94dbe62ea5d3e9340bd320a1a582ceb2a 753e4cf6218483cc475fbd80dd9c8b449fb8fc80 Piotr Junosz <piotrju2005@wp.pl> 1733216694 +0100	rebase (finish): refs/heads/main onto fac16853356dc8cf4b6d93b6aff522915d31eec5
+753e4cf6218483cc475fbd80dd9c8b449fb8fc80 9f974e0c799a59de1270073e9763ace73eddb159 Piotr Junosz <piotrju2005@wp.pl> 1733217631 +0100	branch: Reset to origin/main
+9f974e0c799a59de1270073e9763ace73eddb159 53e430ad4b0a3f1bd9e30908893461c8c2625d15 Piotr Junosz <piotrju2005@wp.pl> 1733217834 +0100	branch: Reset to origin/main
